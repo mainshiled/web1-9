@@ -50,3 +50,20 @@ box-shadow: 0px 0px 0px 2px blake inset,
 padding: 5px;
 margin:30px;
 }
+
+.button{
+  display:bloke;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.4);
+  background-color: blue;
+  background: linear-gradient(0deg,
+    #00679A,
+    #0081B4 50%,
+    #63B3D2 50%,
+    #BFE5F2);
+}
+  
