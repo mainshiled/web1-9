@@ -22,8 +22,9 @@ margin:30px;
 
 .grow{
 color:red;
-text-shadow:0px 0px 5px lightred;
-box-shadow: 0px 0px 7px lightred;padding: 5px;
+text-shadow:0px 0px 5px pink;
+box-shadow: 0px 0px 7px pink;
+  padding: 5px;
 margin:30px;
 }
 
@@ -33,7 +34,8 @@ text-shadow:2px 2px 0px green,
 -2px 2px 0px green,
 2px -2px 0px green,
 -2px -2px 0px green;
-box-shadow: 0px 0px 0px 4px blake;padding: 5px;
+box-shadow: 0px 0px 0px 4px blake;
+  padding: 5px;
 margin:30px;
 }
 
