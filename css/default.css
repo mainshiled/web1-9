@@ -68,4 +68,41 @@ margin:30px;
     #63B3D2 50%,
     #BFE5F2);
 }
+
+.transform
+{
+  font-size: 15px;
+  width: 100px;
+  text-align: center;
+  padding: 30px 0px;
+  margin: 15px;
+  background-color:blue;
+}
   
+.transform-origin
+{
+  transform-origin: 0% 0%;
+  transform:rotate(40deg);
+}
+
+.transition
+{
+  margin: 10px;
+}
+
+.transition a
+{
+background-color:red;
+  color:black;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 5px;
+  transition: 1s;
+}
+.transition a:hover
+{
+  background-color:yellow;
+  text-decoration: none;
+  padding:5px;
+  color:blue;
+}
