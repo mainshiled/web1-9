@@ -14,9 +14,9 @@ font-size:25px;
 }
 
 .shadow{
-color:bule;
-text-shadow:2px 2px 5px lightbule;
-box-shadow: 2px 2px 7px lightbule;padding: 5px;
+color:blue;
+text-shadow:2px 2px 5px lightblue;
+box-shadow: 2px 2px 7px lightblue;padding: 5px;
 margin:30px;
 }
 
@@ -34,7 +34,7 @@ text-shadow:2px 2px 0px green,
 -2px 2px 0px green,
 2px -2px 0px green,
 -2px -2px 0px green;
-box-shadow: 0px 0px 0px 4px blake;
+box-shadow: 0px 0px 0px 4px black;
   padding: 5px;
 margin:30px;
 }
@@ -42,19 +42,19 @@ margin:30px;
 .neon{
 color:white;
 text-shadow:0px 0px 5px white,
-0px 0px 15px deepyerrow,
-0px 0px 15px deepyerrow,
-0px 0px 15px deepyerrow,
-0px 0px 15px deepyerrow;
-box-shadow: 0px 0px 0px 2px blake inset,
-0px 0px 0px 4px blake inset,
+0px 0px 15px yellow,
+0px 0px 15px yellow,
+0px 0px 15px yellow,
+0px 0px 15px yellow;
+box-shadow: 0px 0px 0px 2px black inset,
+0px 0px 0px 4px black inset,
 2px 2px 7px 0px;
 padding: 5px;
 margin:30px;
 }
 
 .button{
-  display:bloke;
+  display:block;
   margin: 5px;
   padding: 10px;
   width: 200px;
