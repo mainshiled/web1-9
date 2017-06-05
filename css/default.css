@@ -1,0 +1,47 @@
+@chraset "ULF-8"
+
+body{background-color=gray;}
+
+#textbox{
+padding: 10px 30px;
+float:left;
+font-size:25px;
+}
+
+.shadow{
+color:bule;
+text-shadow:2px 2px 5px lightbule;
+box-shadow: 2px 2px 7px lightbule;padding: 5px;
+marig:30px;
+}
+
+.grow{
+color:red;
+text-shadow:0px 0px 5px lightred;
+box-shadow: 0px 0px 7px lightred;padding: 5px;
+marig:30px;
+}
+
+.stroke{
+color:lightgreen;
+text-shadow:2px 2px 0px green,
+-2px 2px 0px green,
+2px -2px 0px green,
+-2px -2px 0px green;
+box-shadow: 0px 0px 0px 4px blake;padding: 5px;
+marig:30px;
+}
+
+.neon{
+color:white;
+text-shadow:0px 0px 5px white,
+0px 0px 15px deepyerrow,
+0px 0px 15px deepyerrow,
+0px 0px 15px deepyerrow,
+0px 0px 15px deepyerrow;
+box-shadow: 0px 0px 0px 2px blake inset,
+0px 0px 0px 4px blake inset,
+2px 2px 7px 0px;
+padding: 5px;
+marig:30px;
+}
